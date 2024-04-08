@@ -1,4 +1,4 @@
-# PySpark_Sales-_Project Overview
+# PySpark_Sales_Project Overview
 - Implemented an end-to-end PySpark project on Databricks, focusing on meeting specific business requirements. Utilized PySpark DataFrames for efficient data processing and manipulation.
 
 # 📈 Key Achievements:
