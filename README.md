@@ -15,5 +15,5 @@
 - Successfully translated business requirements into actionable insights, contributing to data-driven decision-making.
 
 # Dashboard:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1951936772887707/3861908202921800/3663798289851880/latest.html
+[https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1951936772887707/3861908202921800/3663798289851880/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1951936772887707/3861908202921800/3663798289851880/latest.html)
 
